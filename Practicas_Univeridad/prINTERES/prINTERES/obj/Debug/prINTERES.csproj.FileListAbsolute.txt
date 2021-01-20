@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\bin\Debug\prINTERES.exe.config
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\bin\Debug\prINTERES.exe
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\bin\Debug\prINTERES.pdb
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\obj\Debug\prINTERES.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\obj\Debug\prINTERES.Form1.resources
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\obj\Debug\prINTERES.Properties.Resources.resources
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\obj\Debug\prINTERES.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\obj\Debug\prINTERES.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\obj\Debug\prINTERES.exe
+C:\Users\USER\source\repos\C#\prINTERES\prINTERES\obj\Debug\prINTERES.pdb
