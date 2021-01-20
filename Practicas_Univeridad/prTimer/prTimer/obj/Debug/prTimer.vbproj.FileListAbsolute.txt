@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\prTimer\prTimer\bin\Debug\prTimer.exe.config
+C:\Users\USER\source\repos\prTimer\prTimer\bin\Debug\prTimer.exe
+C:\Users\USER\source\repos\prTimer\prTimer\bin\Debug\prTimer.pdb
+C:\Users\USER\source\repos\prTimer\prTimer\bin\Debug\prTimer.xml
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.Form1.resources
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.Resources.resources
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.exe
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.xml
+C:\Users\USER\source\repos\prTimer\prTimer\obj\Debug\prTimer.pdb
