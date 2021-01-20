@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\bin\Debug\PRControl timer.exe.config
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\bin\Debug\PRControl timer.exe
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\bin\Debug\PRControl timer.pdb
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\obj\Debug\PRControl timer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\obj\Debug\PRControl_timer.Form1.resources
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\obj\Debug\PRControl_timer.Properties.Resources.resources
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\obj\Debug\PRControl timer.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\obj\Debug\PRControl timer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\obj\Debug\PRControl timer.exe
+C:\Users\USER\source\repos\C#\PRControl timer\PRControl timer\obj\Debug\PRControl timer.pdb
