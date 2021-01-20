@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\bin\Debug\PREstructuta iterativa DO WHILE.exe.config
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\bin\Debug\PREstructuta iterativa DO WHILE.exe
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\bin\Debug\PREstructuta iterativa DO WHILE.pdb
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\obj\Debug\PREstructuta iterativa DO WHILE.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\obj\Debug\PREstructuta_iterativa_DO_WHILE.Form1.resources
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\obj\Debug\PREstructuta_iterativa_DO_WHILE.Properties.Resources.resources
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\obj\Debug\PREstructuta iterativa DO WHILE.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\obj\Debug\PREstructuta iterativa DO WHILE.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\obj\Debug\PREstructuta iterativa DO WHILE.exe
+C:\Users\USER\source\repos\C#\PREstructuta iterativa DO WHILE\PREstructuta iterativa DO WHILE\obj\Debug\PREstructuta iterativa DO WHILE.pdb
