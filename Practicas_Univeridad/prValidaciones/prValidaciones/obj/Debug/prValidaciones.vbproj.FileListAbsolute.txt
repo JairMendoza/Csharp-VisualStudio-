@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.Form1.resources
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.Resources.resources
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\bin\Debug\prValidaciones.exe.config
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\bin\Debug\prValidaciones.exe
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\bin\Debug\prValidaciones.pdb
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\bin\Debug\prValidaciones.xml
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.exe
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.xml
+C:\Users\USER\source\repos\prValidaciones\prValidaciones\obj\Debug\prValidaciones.pdb
