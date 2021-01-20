@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras repititivas(bucles).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras_repititivas_bucles_.Form1.resources
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras_repititivas_bucles_.Properties.Resources.resources
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras repititivas(bucles).csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras repititivas(bucles).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\bin\Debug\PREstructuras repititivas(bucles).exe.config
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\bin\Debug\PREstructuras repititivas(bucles).exe
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\bin\Debug\PREstructuras repititivas(bucles).pdb
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras repititivas(bucles).exe
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras repititivas(bucles).pdb
+C:\Users\USER\source\repos\C#\PREstructuras repititivas(bucles)\PREstructuras repititivas(bucles)\obj\Debug\PREstructuras_repititivas_bucles_.FRMNOTAS.resources
