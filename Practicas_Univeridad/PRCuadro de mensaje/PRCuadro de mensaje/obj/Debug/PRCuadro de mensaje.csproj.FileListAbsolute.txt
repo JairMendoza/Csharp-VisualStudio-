@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\bin\Debug\PRCuadro de mensaje.exe.config
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\bin\Debug\PRCuadro de mensaje.exe
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\bin\Debug\PRCuadro de mensaje.pdb
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\obj\Debug\PRCuadro de mensaje.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\obj\Debug\PRCuadro_de_mensaje.Form1.resources
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\obj\Debug\PRCuadro_de_mensaje.Properties.Resources.resources
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\obj\Debug\PRCuadro de mensaje.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\obj\Debug\PRCuadro de mensaje.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\obj\Debug\PRCuadro de mensaje.exe
+C:\Users\USER\source\repos\C#\PRCuadro de mensaje\PRCuadro de mensaje\obj\Debug\PRCuadro de mensaje.pdb
