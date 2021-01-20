@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\bin\Debug\PrPOO.exe.config
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\bin\Debug\PrPOO.exe
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\bin\Debug\PrPOO.pdb
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\obj\Debug\PrPOO.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\obj\Debug\PrPOO.Form1.resources
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\obj\Debug\PrPOO.Properties.Resources.resources
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\obj\Debug\PrPOO.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\obj\Debug\PrPOO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\obj\Debug\PrPOO.exe
+C:\Users\USER\source\repos\C#\PrPOO\PrPOO\obj\Debug\PrPOO.pdb
