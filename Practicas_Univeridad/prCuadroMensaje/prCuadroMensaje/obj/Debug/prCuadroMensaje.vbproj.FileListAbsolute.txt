@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\bin\Debug\prCuadroMensaje.exe.config
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\bin\Debug\prCuadroMensaje.exe
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\bin\Debug\prCuadroMensaje.pdb
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\bin\Debug\prCuadroMensaje.xml
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.Form1.resources
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.Resources.resources
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.exe
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.xml
+C:\Users\USER\source\repos\prCuadroMensaje\prCuadroMensaje\obj\Debug\prCuadroMensaje.pdb
