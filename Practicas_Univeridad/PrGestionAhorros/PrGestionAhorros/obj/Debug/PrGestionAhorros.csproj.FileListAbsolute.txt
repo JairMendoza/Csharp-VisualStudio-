@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\bin\Debug\PrGestionAhorros.exe.config
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\bin\Debug\PrGestionAhorros.exe
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\bin\Debug\PrGestionAhorros.pdb
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\obj\Debug\PrGestionAhorros.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\obj\Debug\PrGestionAhorros.Form1.resources
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\obj\Debug\PrGestionAhorros.Properties.Resources.resources
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\obj\Debug\PrGestionAhorros.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\obj\Debug\PrGestionAhorros.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\obj\Debug\PrGestionAhorros.exe
+C:\Users\USER\source\repos\C#\PrGestionAhorros\PrGestionAhorros\obj\Debug\PrGestionAhorros.pdb
