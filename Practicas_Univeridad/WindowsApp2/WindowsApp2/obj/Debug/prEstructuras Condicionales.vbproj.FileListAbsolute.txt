@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\prEstructuras Condicionales.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmpromedio.resources
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\prEstructuras Condicionales.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\prEstructuras Condicionales.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\USER\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
